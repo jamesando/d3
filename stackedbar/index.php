@@ -4,7 +4,6 @@
 <html>
 
 <head>
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script> -->
     <script src="https://code.jquery.com/jquery-latest.min.js"></script>
     <script src="https://d3js.org/d3.v4.min.js"></script>
 
@@ -107,7 +106,7 @@
     </style>
 </head>
 <body class="rptBackground">
-   <div class="reportContainer">
+    <div class="reportContainer">
         <div class="placeholder" id="container"></div>
     </div>
 </body>

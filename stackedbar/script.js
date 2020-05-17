@@ -19,7 +19,7 @@ var div = d3.select("body").append("div")
     .style("opacity", 0);
       
 
-// 4. Get the data
+// 4. Get the data and create the chart
 d3.json("data.json", function(data) {
 
     // Set the X axis scale
